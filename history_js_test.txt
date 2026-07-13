@@ -8,3 +8,4 @@ JS Log record number 6 for BackupLABS stress-test
 JS Log record number 7 for BackupLABS stress-test
 JS Log record number 8 for BackupLABS stress-test
 JS Log record number 9 for BackupLABS stress-test
+JS Log record number 10 for BackupLABS stress-test
