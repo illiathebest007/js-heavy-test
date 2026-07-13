@@ -1,2 +1,3 @@
 Start of history
 JS Log record number 1 for BackupLABS stress-test
+JS Log record number 2 for BackupLABS stress-test
